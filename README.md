@@ -1,6 +1,6 @@
 # College Practicals
 
-A collection of practical programs, assignments, and lab exercises completed during my Information Technology Engineering coursework.
+A collection of practical programs, assignments, and lab exercises completed during my Information Technology Engineering.
 
 ## 📚 About
 
